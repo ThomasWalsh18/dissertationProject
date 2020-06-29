@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6702e4a6d09578a47afbe972490b76b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCanvas: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - abilityBar: {instanceID: 0}
+  - MyspriteRenderer: {instanceID: 0}
+  - SecondSword: {fileID: 1880066194252958, guid: c4f06fd9b260f7443b766c1783b73a1d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

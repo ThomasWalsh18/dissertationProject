@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Sword
+  - EnemyWeapon
+  - Wall
+  - SpawnPoint1
+  - Door1
+  - Hole
+  - EProjectile
+  - OutCarMainRoom
+  - WallBehindDoor
+  - Door2
+  - WallBehindShopDoor
+  - BigSword
+  - smallHeal
+  - Heal
+  - upgrade
+  - Stopwatch
+  - alarm
+  - SpawnPoint
+  - Rooms
+  - Ability
+  - HealthBar
+  - Controller
+  - Score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Player + enimies
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 847262215
+    locked: 0
+  - name: Swords
+    uniqueID: 1702001545
+    locked: 0
+  - name: 'Player '
+    uniqueID: 1920301209
+    locked: 0
+  - name: Enimies
+    uniqueID: 2412957065
+    locked: 0
